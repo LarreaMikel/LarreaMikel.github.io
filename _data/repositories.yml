@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - LarreaMikel
+  - GICI-UPV-EHU
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - GICI-UPV-EHU/Demethanizer-Column---PINN
+  - GICI-UPV-EHU/NN_Acoplado
